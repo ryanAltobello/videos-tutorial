@@ -5,4 +5,4 @@ Javascript <br>
 React
 
 ### Features
-
+Retrieving videos through search queries using [Youtube Data API](https://developers.google.com/youtube/v3/) and displaying a list
